@@ -3,5 +3,5 @@
 <center>
 Connect with me :
 
-<a href="https://web.facebook.com/profile.php?id=100060138295881"><img src="https://image.flaticon.com/icons/svg/174/174848.svg" alt="alt text" width="20" height="20"></a>
+<a href="https://web.facebook.com/Justissei/"><img src="https://image.flaticon.com/icons/svg/174/174848.svg" alt="alt text" width="20" height="20"></a>
 <img src="https://raw.githubusercontent.com/just-issei/just-issei/main/img/kawaii.gif">
