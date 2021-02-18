@@ -14,8 +14,6 @@ Connect with me :
 
 <img src="https://raw.githubusercontent.com/just-issei/just-issei/main/img/kawaii.gif">
 
-&nbsp;&nbsp;     &nbsp;&nbsp;       
-
 ---
 
 ![Alt](Mario_Gameplay.gif "banner")
