@@ -1,5 +1,5 @@
 ### <img src ="https://raw.githubusercontent.com/just-issei/just-issei/main/img/Hi.gif" width="29px"> hi, I’m issei <img src ="https://github.com/just-issei/just-issei/blob/main/img/Mario_Hello_Big.gif" width="29px">
-<img src="https://github.com/just-issei/just-issei/blob/main/img/0_3N994lFVAwmVTsYJ.gif" width=150 height="120" align="left">
+<img src="https://github.com/just-issei/just-issei/blob/main/img/0_3N994lFVAwmVTsYJ.gif" width=145 height="120" align="left">
 <center>
 Connect with me :
 
