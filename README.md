@@ -20,6 +20,29 @@ Connect with me :
 ---
 
 ## Stats
+<br>
+
+<a href="https://github.com/just-issei">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=just-issei&theme=dark&hide_langs_below=1" />
+</a>
+
+<a href="https://github.com/just-issei">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=just-issei&show_icons=true&theme=dark&line_height=27" alt="Shubhamdeep's github stats"/>
+</a>
+
+
+<a href="https://github.com/just-issei/just-issei">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=just-issei&repo=just-issei&theme=dark" />
+</a>
+
+<!-- <a href="https://github.com/TheDudeThatCode/Fun-with-DS-and-Algo">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TheDudeThatCode&repo=Fun-with-DS-and-Algo&theme=dark" />
+</a> -->
+
+<br>
+<!--
+![Issei's github stats](https://github-readme-stats.vercel.app/api?username=just-issei&show_icons=true&hide_border=true)
+-->
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
