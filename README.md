@@ -12,11 +12,12 @@ Connect with me :
 
 ---
 
-<img src="https://raw.githubusercontent.com/just-issei/just-issei/main/img/kawaii.gif">
-
----
 - <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/wave.gif" width="20vw" /> I’m *currently* **sleeping** 😴 or *working* on my **laptop or smartphone** 👨‍💻
 - <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/coin.gif" width="20vw" /> **Fun fact:** My *smartness* 💡 lies in my *laziness* 😴
+
+---
+<img src="https://raw.githubusercontent.com/just-issei/just-issei/main/img/kawaii.gif">
+
 ---
 
 ## Stats
