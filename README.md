@@ -20,7 +20,7 @@ Connect with me :
 
 ---
 
-## Stats
+## Stats <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/happy.gif" width="29px" />
 <br>
 
 <a href="https://github.com/just-issei">
